@@ -13,7 +13,7 @@ I am a third year PhD student at the Department of Statistics, University of Oxf
 Research
 ======
 
-I am interested in the foundational intersection between prediction and Bayesian inference, and tackling the challenges of computation and model misspecification through generalizations of the Bayesian update. I focus on developing scalable Bayesian nonparametric methods such as the Bayesian bootstrap, and am interested in the wider applications of Bayesian methods in statistical machine learning. 
+I am interested in the foundational intersection between prediction and Bayesian inference, with the goal of tackling the challenges of computation and model misspecification through generalizations of the Bayesian update. I focus on scalable Bayesian nonparametric methods such as the Bayesian bootstrap, and am interested in the wider applications of Bayesian methods in statistical machine learning. 
 
 Miscellaneous
 ======
