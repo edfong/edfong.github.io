@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/ABC_Svalbard
 venue: "ABC in Svalbard 2021"
-date: 2021-12-04
+date: 2021-04-12
 location: "Online"
 ---
 

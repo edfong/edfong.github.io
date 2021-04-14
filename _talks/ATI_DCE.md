@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/ATI_DCE
 venue: "The Alan Turing Institute"
-date: 2020-11-03
+date: 2020-03-11
 location: "London, UK"
 ---
 
