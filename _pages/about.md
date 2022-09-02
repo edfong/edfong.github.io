@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the Department of Statistics, University of Oxford and the Alan Turing Institute, supervised by [Professor Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/). Previously, I completed an MEng in information engineering at the University of Cambridge. 
+I am currently a data scientist within Methods, Innovation & Outreach at Novo Nordisk, where I develop and apply novel statistical methods within the healthcare setting in collaboration with academia. Previously, I completed my PhD at the Department of Statistics, University of Oxford and the Alan Turing Institute, supervised by [Professor Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/).
 
 Research
 ======
+I am broadly interested in causal inference, machine learning, and Bayesian inference, with a primary focus on applications to clinical trial and observational data.
 
-I am interested in the foundational intersection between prediction and Bayesian inference, with the goal of tackling the challenges of computation and model misspecification through generalizations of the Bayesian update. I focus on scalable Bayesian nonparametric methods such as the Bayesian bootstrap, and am interested in the wider applications of Bayesian methods in statistical machine learning. 
+During my PhD, I focused on the foundational intersection between prediction and Bayesian inference. I also investigated scalable Bayesian nonparametric methods such as the Bayesian bootstrap, with a focus on computation and model misspecification.
 
 Miscellaneous
 ======
-- I recently interned (remotely) at Roche with [Chris Harbron](https://scholar.google.co.uk/citations?user=2Fa9Ih8AAAAJ&hl=en).
+- I previously interned (remotely) at Roche with [Chris Harbron](https://scholar.google.co.uk/citations?user=2Fa9Ih8AAAAJ&hl=en).
 - I was a finalist for the 2020 [Facebook Fellowship](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/).
 - I was a visting researcher at UT Austin in October 2019, working with [Stephen Walker](https://cns.utexas.edu/directory/item/15-mathematics/385-walker-stephen-g?Itemid=349).
 - My work on the marginal likelihood and cross-validation was featured on [Talking Machines](https://www.thetalkingmachines.com/episodes/postersessionai-and-deep-quaggles), Ferenc Huszár's [blog](https://www.inference.vc/marginal-likelihood-and-cross-validation/), and Christian Robert's [blog](https://xianblog.wordpress.com/2020/10/09/marginal-likelihood-as-exhaustive-x-validation/).
