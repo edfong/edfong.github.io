@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Edwin Fong"
 title_separator          : "-"
 name                     : &name "Edwin Fong"
-description              : &description "PhD student at Oxford and the Alan Turing Institute. Interested in statistical machine learning and Bayesian inference."
+description              : &description "Assistant Professor at the University of Hong Kong. Interested in Bayesian inference, machine learning and causal inference."
 url                      : https://edfong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edfong.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Edwin Fong"
   avatar           : "profile.png"
   bio              : "PhD in Statistics"
-  location         : "University of Oxford, UK"
+  location         : "The University of Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eT4pY6QAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=vfihrQwAAAAJ&hl=en"
   email            :
   researchgate     :  
   uri              :
