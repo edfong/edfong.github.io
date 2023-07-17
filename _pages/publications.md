@@ -15,7 +15,7 @@ author_profile: true
 1. Z. Tsangalidou, **E. Fong**, J. Sundgaard, T. Abrahamsen, and K. Kvist, “Multimodal deep transfer learning for the analysis of optical coherence tomography scans and retinal fundus photographs,” *NeurIPS 2022 Workshop on Learning Meaningful Representations of Life*, 2022.
 1. **E. Fong**, “The predictive view of Bayesian inference,” PhD thesis, University of Oxford, 2022.
 1. **E. Fong** and B. Lehmann, “A Predictive Approach to Bayesian Nonparametric Survival Analysis,” *25th International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021.
-1. **E. Fong** and C. Holmes, “Conformal Bayesian Computation,” in *Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS) *, 2021.
+1. **E. Fong** and C. Holmes, “Conformal Bayesian Computation,” in *Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS)*, 2021.
 1. **E. Fong** and C. Holmes, “On the
 marginal likelihood and cross-validation,” *Biometrika*, vol. 107, no. 2, pp. 489–496, 2020.
 1. **E. Fong**, S. Lyddon, and C. Holmes, “Scalable Nonparametric Sampling from Multimodal
