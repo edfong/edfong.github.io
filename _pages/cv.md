@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](../files/edwin_fong_cv.pdf)
+[Download (Outdated)](../files/edwin_fong_cv.pdf)
