@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Edwin Fong"
 title_separator          : "-"
 name                     : &name "Edwin Fong"
-description              : &description "Assistant Professor at the University of Hong Kong. Interested in Bayesian inference, machine learning and causal inference."
+description              : &description "Assistant Professor at the University of Hong Kong"
 url                      : https://edfong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edfong.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vfihrQwAAAAJ&hl=en"
-  email            :
+  email            : "chefong@hku.hk"
   researchgate     :  
   uri              :
   bitbucket        :
