@@ -13,7 +13,9 @@ I was previously a data scientist at Novo Nordisk, where I developed novel stati
 
 Research
 ======
-My current research explores Bayesian methods that are motivated by prediction - this encompasses topics in Bayesian nonparametrics, scalable inference, and model selection. In particular, I find generalized Bayesian procedures to be an exciting avenue of research for tackling issues like scalability and model misspecification. Some examples of these methods include [general Bayesian updating](https://arxiv.org/pdf/1306.6430.pdf), the [Bayesian bootstrap](http://proceedings.mlr.press/v97/fong19a/fong19a.pdf) and the [martingale posterior](https://arxiv.org/pdf/2103.15671.pdf). My work also touches on topics in machine learning and conformal prediction, and I've recently started to take an interest in causal inference and its applications in clinical trials, as well as the overlap with Bayesian techniques.
+My current research explores Bayesian methods that are motivated by prediction - this encompasses topics in Bayesian nonparametrics, scalable inference, and model selection. In particular, I find generalized Bayesian procedures to be an exciting avenue of research for tackling issues like scalability and model misspecification. Some examples of these methods include [general Bayesian updating](https://arxiv.org/pdf/1306.6430.pdf), the [Bayesian bootstrap](http://proceedings.mlr.press/v97/fong19a/fong19a.pdf) and the [martingale posterior](https://arxiv.org/pdf/2103.15671.pdf). 
+
+My work also touches on topics in machine learning and conformal prediction. I've also recently started to take an interest in causal inference and its applications in clinical trials, as well as the overlap with Bayesian techniques.
 
 
 Prospective students
