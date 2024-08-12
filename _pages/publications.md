@@ -4,13 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+1. **E. Fong**, A. Yiu, "Bayesian Quantile Estimation and Regression with Martingale Posteriors," *arXiv:2406.03358*. 2024.
+1. E. Dimitriou, **E. Fong**, K. Diaz-Ordaz, B. Lehmann, "Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes," *arXiv:2405.20957*. 2024.
+1. H. Lee, G. Nam, **E. Fong**, and J. Lee, “Enhancing Transfer Learning with Flexible Nonparametric Posterior Sampling,” *12th International Conference on Learning Representations (ICLR)*, 2024.
 1. A. Yiu, **E. Fong**, C. Holmes, and J. Rousseau, “Semiparametric posterior corrections,” *arXiv:2306.06059*. 2023.
-
 1. L. E. Dang, **E. Fong**, J. M. Tarp, K. K. B. Clemmensen, H. Ravn, K. Kvist, J. B. Buse, M. van der Laan, and M. Petersen, “A causal roadmap for hybrid randomized and real-world data designs: Case study of Semaglutide and cardiovascular outcomes,” *arXiv:2305.07647*. 2023.
+1. **E. Fong**, C. Holmes, and S. G. Walker, “Martingale posterior distributions,” *Journal of the Royal Statistical Society: Series B (with discussion)*, 2023.
 1. S. Ghalebikesabi, C. Holmes, **E. Fong**, and B. Lehmann, “Quasi-Bayesian nonparametric density estimation via autoregressive predictive updates,” *39th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2023. Spotlight.
-1. H. Lee, E. Yun, **E. Fong**, and J. Lee, “Martingale posterior neural processes,” *11th International Conference on Learning Representations (ICLR)*, 2023. Notable top 25%.
-1. **E. Fong**, C. Holmes, and S. G. Walker, “Martingale posterior distributions,” *To appear at the Journal of the Royal Statistical Society: Series B (with discussion)*, 2023.
+1. H. Lee, E. Yun, G. Nam, **E. Fong**, and J. Lee, “Martingale posterior neural processes,” *11th International Conference on Learning Representations (ICLR)*, 2023. Notable top 25%.
 1. A. Yiu, **E. Fong**, S. Walker, and C. Holmes, “Causal predictive inference and target trial emulation,” *arXiv:2207.12479*, 2022.
 1. Z. Tsangalidou, **E. Fong**, J. Sundgaard, T. Abrahamsen, and K. Kvist, “Multimodal deep transfer learning for the analysis of optical coherence tomography scans and retinal fundus photographs,” *NeurIPS 2022 Workshop on Learning Meaningful Representations of Life*, 2022.
 1. **E. Fong**, “The predictive view of Bayesian inference,” PhD thesis, University of Oxford, 2022.
