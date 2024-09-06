@@ -20,7 +20,7 @@ My work also touches on topics in machine learning and conformal prediction. I'v
 
 Prospective students
 ======
-I'm looking for motivated PhD students with a strong background in statistics to join my group at HKU.  If you are interested, please drop me an email with your CV and research interests.
+I'm looking for motivated PhD students with a strong background in statistics to join my group at HKU.  If you are interested, please drop me an email with your CV and research interests. Unfortunately, due to the large volume of emails I receive, I may not be able to respond to each one individually.
 
 
 News
