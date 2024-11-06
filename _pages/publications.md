@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **E. Fong**, A. Yiu, "Asymptotics for parametric martingale posteriors," *arXiv:2410.17692*. 2024.
+1. Y. McLatchie, **E. Fong**, D. T. Frazier, and J. Knoblauch, "Predictive performance of power posteriors," *arXiv:2408.08806*. 2024. 
 1. **E. Fong**, A. Yiu, "Bayesian Quantile Estimation and Regression with Martingale Posteriors," *arXiv:2406.03358*. 2024.
 1. E. Dimitriou, **E. Fong**, K. Diaz-Ordaz, B. Lehmann, "Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes," *arXiv:2405.20957*. 2024.
 1. H. Lee, G. Nam, **E. Fong**, and J. Lee, “Enhancing Transfer Learning with Flexible Nonparametric Posterior Sampling,” *12th International Conference on Learning Representations (ICLR)*, 2024.
