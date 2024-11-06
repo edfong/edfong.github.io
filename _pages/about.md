@@ -18,10 +18,11 @@ My current research explores Bayesian methods that are motivated by prediction -
 My work also touches on topics in machine learning and conformal prediction. I've also recently started to take an interest in causal inference and its applications in clinical trials, as well as the overlap with Bayesian techniques.
 
 
-Prospective students
+Prospective postdocs/students
 ======
-I'm looking for motivated PhD students with a strong background in statistics to join my group at HKU.  If you are interested, please drop me an email with your CV and research interests. Unfortunately, due to the large volume of emails I receive, I may not be able to respond to each one individually.
+**Update**: I'm looking for a motivated **postdoctoral fellow** with a strong background in **Bayesian nonparametric methods** to join my group at HKU. If you are interested in working with me, please drop me an email with your CV and research interests. Unfortunately, due to the large volume of emails I receive, I may not be able to respond to each one individually. 
 
+I will unfortunately not be recruiting PhD students for the coming 2025/2026 academic year.
 
 News
 ======
