@@ -22,7 +22,6 @@ Prospective postdocs/students
 ======
 **Update**: I'm looking for a motivated **postdoctoral fellow** with a strong background in **Bayesian nonparametric methods** to join my group at HKU. If you are interested in working with me, please drop me an email with your CV and research interests. Unfortunately, due to the large volume of emails I receive, I may not be able to respond to each one individually. 
 
-I will unfortunately not be recruiting PhD students for the coming 2025/2026 academic year.
 
 News
 ======
