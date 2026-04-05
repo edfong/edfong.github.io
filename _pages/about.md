@@ -20,11 +20,12 @@ My work also touches on topics in machine learning and conformal prediction. I'v
 
 Prospective postdocs/students
 ======
-**Update**: I'm looking for a motivated **postdoctoral fellow** with a strong background in **Bayesian nonparametric methods** to join my group at HKU. If you are interested in working with me, please drop me an email with your CV and research interests. Unfortunately, due to the large volume of emails I receive, I may not be able to respond to each one individually. 
+I'm looking for a motivated **postdoctoral fellow** with a strong background in **Bayesian nonparametric methods** to join my group at HKU. If you are interested in working with me, please drop me an email with your CV and research interests. Unfortunately, due to the large volume of emails I receive, I may not be able to respond to each one individually. 
 
 
-News
+<!-- News
 ======
 - I am honoured to have received the [Savage Award](https://bayesian.org/project/savage-award/) for my PhD thesis on [the predictive view of Bayesian inference](https://ora.ox.ac.uk/objects/uuid:98a6d3eb-6fee-4850-87f2-8dd048fd6864).
 - I [presented](https://www.youtube.com/watch?v=FXp8c7wLyto) our JRSSB discussion paper on [martingale posterior distributions](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Preprint_Fong-et-al_12-Dec-2022.pdf) at the Royal Statistical Society in December 2022. 
 - My work on the marginal likelihood and cross-validation was featured on [Talking Machines](https://www.thetalkingmachines.com/episodes/postersessionai-and-deep-quaggles), Ferenc Huszár's [blog](https://www.inference.vc/marginal-likelihood-and-cross-validation/), and Christian Robert's [blog](https://xianblog.wordpress.com/2020/10/09/marginal-likelihood-as-exhaustive-x-validation/).
+ -->
