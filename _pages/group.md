@@ -9,14 +9,14 @@ I am fortunate enough to work with a wonderful group of students and collaborato
 ## Research students
 - Yuqi Zhang (PhD, 2025-Present)  
 - Keyi Jiang (PhD, 2024-Present)
-- Taole Sha (PhD, 2024-Present)
+- [Taole Sha](https://stlllll.github.io/) (PhD, 2024-Present)
 - Wanyue Sun (PhD, 2024-Present)
 - Yiu Yin Yung (MPhil 2024-Present)
 - [Evangelos Dimitriou](https://profiles.ucl.ac.uk/91850-evangelos-dimitriou) (PhD, 2023-Present), co-supervised with [Dr. Brieuc Lehmann](https://brieuclehmann.github.io/) at UCL.
 - [Yann McLatchie](https://yannmclatchie.github.io/) (PhD, 2023-Present), co-supervised with [Dr. Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) at UCL.
 
 ## Postdocs and Research Assistants
-- Joshua Rooijakkers (RA, 2026-Present)
+- [Joshua Rooijakkers](https://joshuarooijakkers.github.io/) (RA, 2026-Present)
 - Hani Bourrous (RA, 2026-Present)
 - [Zhidi Lin](https://zhidi-lin.github.io/) (Postdoc, 2025-Present)
 
