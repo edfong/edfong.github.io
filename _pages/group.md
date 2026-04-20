@@ -11,7 +11,7 @@ I am fortunate enough to work with a wonderful group of students and collaborato
 - Keyi Jiang (PhD, 2024-Present)
 - [Taole Sha](https://stlllll.github.io/) (PhD, 2024-Present)
 - Wanyue Sun (PhD, 2024-Present)
-- Yiu Yin Yung (MPhil 2024-Present)
+- [Yiu Yin Yung](https://yiuyin-yung.github.io/) (MPhil 2024-Present)
 - [Evangelos Dimitriou](https://profiles.ucl.ac.uk/91850-evangelos-dimitriou) (PhD, 2023-Present), co-supervised with [Dr. Brieuc Lehmann](https://brieuclehmann.github.io/) at UCL.
 - [Yann McLatchie](https://yannmclatchie.github.io/) (PhD, 2023-Present), co-supervised with [Dr. Jeremias Knoblauch](https://jeremiasknoblauch.github.io/) at UCL.
 
